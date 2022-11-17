@@ -5,6 +5,7 @@
 
 文件目录
 
+```
 root@localhst:~/redroid_frida# ls -al
 total 47308
 drwxr-xr-x  2 root root     4096 Nov 15 15:49 .
@@ -12,7 +13,7 @@ drwx------ 13 root root     4096 Nov 15 15:30 ..
 -rwx------  1 root root 48569016 Nov 15 14:38 frida-server-16.0.2-android-arm64
 -rw-r--r--  1 root root      464 Nov 15 15:30 frida.rc
 -rwx------  1 root root      375 Nov 15 15:02 setup.sh
-
+```
 
 frida.rc
 ```
